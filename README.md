@@ -1,0 +1,2 @@
+# aminolib
+Lib for amino
